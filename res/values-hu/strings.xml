@@ -80,7 +80,7 @@
     <string name="settings_permissions">Engedélyek</string>
     <string name="settings_recents_mode">Legutóbbiakban megjelenítés</string>
 
-    <string name="settings_default">((Alapértelmezett)</string>
+    <string name="settings_default">(Alapértelmezett)</string>
 
     <string name="settings_force">Kényszeritett</string>
     <string name="settings_prevent">Megakadályozva</string>
